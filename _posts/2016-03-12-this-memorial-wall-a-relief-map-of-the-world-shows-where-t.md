@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This Memorial Wall, a relief map of the world, shows where NYC Transit Authority workers died during WW2. In 2015 we moved the wall from 370 Jay Street to the lobby of the MTA at 130 Livingston, Brooklyn, NY.\_"
-datePublished: '2016-03-12T22:32:27.396Z'
-dateModified: '2016-03-12T22:32:24.980Z'
+datePublished: '2016-03-12T22:33:48.258Z'
+dateModified: '2016-03-12T22:33:46.294Z'
 title: 'WW2 Memorial Wall, Brooklyn, NY'
 author: []
 sourcePath: _posts/2016-03-12-this-memorial-wall-a-relief-map-of-the-world-shows-where-t.md
