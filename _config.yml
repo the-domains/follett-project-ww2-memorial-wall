@@ -1,0 +1,28 @@
+name: Follett Project - WW2 Memorial Wall
+favicon: null
+layout_spectrum: 0.7488604171667248
+typography_spectrum: 0.03253736044280231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7532738279551268
+  lightness: 0.3837712809909135
+  saturation: 0.3737986027263105
+  rhythmicContrast: 0.6214247865136713
+purpose: []
