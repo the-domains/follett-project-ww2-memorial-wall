@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Follett Project - WW2 Memorial Wall]]></title>
-        <description><![CDATA[Follett Project - WW2 Memorial Wall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[WW2 Memorial Wall]]></title>
+        <description><![CDATA[WW2 Memorial Wall]]></description>
+        <link>https://thegrid.ai/follett-project-ww2-memorial-wall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 22:06:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 22:12:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/follett-project-ww2-memorial-wall/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef5d8c6-e5a8-408d-aa83-40c80d760ae3.jpg">]]></description>
-            <link>undefinedthis-memorial-wall-a-relief-map-of-the-world-shows-where-t/index.html</link>
+            <title><![CDATA[WW2 Memorial Wall]]></title>
+            <description><![CDATA[<article><h1>WW2 Memorial Wall</h1><p>This Memorial Wall, a relief map of the world, shows where Transit Authority workers died during WW2. In 2015 we moved the wall from 370 Jay Street to the lobby of the MTA at 130 Livingston, Brooklyn, NY. Ken Follett as former partner in Apple Restoration & Waterproofing, with subcontractor Creighton Brown, moved the wall to the Jay Street exterior location in 1994. The wall now installed at Livingston measures 15' wide, 11' tall and consists of 9 granite stones 2" thick and each weighing in at 500 lbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd7be12c82ff3400b176cb60adf86965363d6dca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/follett-project-ww2-memorial-wall/this-memorial-wall-a-relief-map-of-the-world-shows-where-t/index.html</link>
             <guid isPermaLink="false">4cc0b10c-9275-44e8-a9e7-5817bfa57090</guid>
-            <pubDate>Sat, 12 Mar 2016 22:06:25 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 22:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
