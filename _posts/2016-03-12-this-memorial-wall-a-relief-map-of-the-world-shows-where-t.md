@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "This Memorial Wall, a relief map of the world, shows where Transit Authority workers died during WW2. In 2015 we moved the wall from 370 Jay Street to the lobby of the MTA at 130 Livingston, Brooklyn, NY. Ken Follett as former partner in Apple Restoration & Waterproofing, with subcontractor Creighton Brown, moved the wall to the Jay Street exterior location in 1994. The wall now installed at Livingston measures 15' wide, 11' tall and consists of 9 granite stones 2\" thick and each weighing in at 500 lbs."
-datePublished: '2016-03-12T22:25:15.791Z'
-dateModified: '2016-03-12T22:25:13.146Z'
+description: "This Memorial Wall, a relief map of the world, shows where Transit Authority workers died during WW2. In 2015 we moved the wall from 370 Jay Street to the lobby of the MTA at 130 Livingston, Brooklyn, NY.\_"
+datePublished: '2016-03-12T22:29:01.240Z'
+dateModified: '2016-03-12T22:28:58.872Z'
 title: WW2 Memorial Wall
 author: []
 sourcePath: _posts/2016-03-12-this-memorial-wall-a-relief-map-of-the-world-shows-where-t.md
